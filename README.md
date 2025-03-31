@@ -1,18 +1,16 @@
-# de_project_02_imbd_top_rating
+## **Project Overview**  
+This project focuses on analyzing IMDb’s top-rated movies dataset using **Python** and **SQL**. The objective is to perform **ETL (Extract, Transform, Load) operations**, clean and structure the dataset, and derive insights about **movie genres, ratings, and trends** over time. The final data is stored in a **PostgreSQL database** for further querying and analysis.
 
-As promised, we're kicking off the Live Data Engineering Project Session! We’ll cover everything from scratch to advanced, building an end-to-end data pipeline.
+---
 
-Find me: https://www.linkedin.com/in/im-nsk/
+## **Technologies Used**  
+- **Python** (`pandas`, `psycopg2`) for data extraction, transformation, and loading.
+- **PostgreSQL** for storing and querying structured movie data.
+- **SQL queries** for extracting insights from the dataset.
 
-Welcome to our second project session! In this project, we will analyze IMDb's top-rated movies dataset using Python and SQL. The goal is to load, clean, transform, and analyze the data to derive meaningful insights about movie genres, ratings, trends, and customer preferences over time.
+---
 
-The project will involve:
-
-Python for data reading, manipulation, table creation, loading (using pandas).
-SQL for storing and querying the data in a PostgreSQL database.
-ETL (Extract, Transform, Load) operations to transform raw data into structured, analyzable information.
-
-#### Steps to Complete the Project:
+## **Project Workflow**  
 
 **Step 1: Set Up Your Environment**
 Make sure you have the necessary Python libraries installed to manipulate the dataset and interact with PostgreSQL.
@@ -64,7 +62,7 @@ With the data now in PostgreSQL, you can run SQL queries to extract meaningful i
 
 ### **Conclusion**
 
-By completing these steps, you will have:
+By completing these steps, we will have:
 
 1. Cleaned and transformed the IMDb dataset for analysis.
 2. Loaded the data into a PostgreSQL database.
@@ -73,10 +71,4 @@ By completing these steps, you will have:
     - Average ratings by genre
     - Movie popularity trends over the decades
 
-You can extend this project by adding more transformations or visualizing the results using **Tableau**, **Power BI**, or **matplotlib** in Python.
 
-**If you want to stay updated and be part of community, you can join channels below:**
-WhatsApp Channel: [https://whatsapp.com/channel/0029Var3a3zFHWqARmaU462V] 
-Telegram Channel: [https://t.me/data_land_im_nsk]
-
-❤️Think this is useful? Don't forget to give star (top right corener) 🌟🌟🌟
