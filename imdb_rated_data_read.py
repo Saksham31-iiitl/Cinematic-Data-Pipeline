@@ -1,6 +1,6 @@
 import pandas as pd  # Load the CSV file
 
-file_path = 'path_to_your_file.csv'
+file_path = 'IMDb_top_rated_data.csv'
 df = pd.read_csv(file_path)
 
 print(df.head())  # View the first few rows of the dataset
